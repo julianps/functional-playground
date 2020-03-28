@@ -4,8 +4,6 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
 
-import lombok.Getter;
-
 /**
  * Some data for testing.
  *
@@ -34,5 +32,4 @@ public class CreditCardService {
 			return Optional.empty();
 		}
 	}
-
 }
